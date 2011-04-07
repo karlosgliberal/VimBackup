@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/flatline/src/nodesrc/volumen/public/stylesheets'
+let g:netrw_dirhist_2='/Users/flatline/src/nodesrc/ncms/conf'
+let g:netrw_dirhist_3='/Users/flatline/src/nodesrc/github/now/examples/express_example/views'
